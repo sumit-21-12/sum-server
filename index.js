@@ -6,7 +6,7 @@ app.use(cors());
 const todos = [{
   id: 1, 
   title: "Todo 1",
-  description: "This is todo 1",
+  description: "This is todo 1 from sumit",
   completed: false,
 }, {
   id: 2,
