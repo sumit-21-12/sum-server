@@ -11,7 +11,7 @@ const todos = [{
 }, {
   id: 2,
   title: "Todo 2",
-  description: "This is todo 2",
+  description: "This is todo 2 yes",
   completed: false,
 }, {
   id: 3,
